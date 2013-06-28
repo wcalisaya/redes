@@ -1,4 +1,4 @@
-		    GNU  GENERAL PUBLIC LICENSE - MAGWI
+		    GNU  GENERAL PUBLIC LICENSE - MAGWI.GIT
 		       Version 2, Junio 1991
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
